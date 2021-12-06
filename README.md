@@ -2,7 +2,7 @@
 - 👀 I’m interested in html,css,js,python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on easy python
-- 📫 How to reach me `private sorry`
+- `How to reach me is **PRIVATE**`
 
 <!---
 C7CodingDev/C7CodingDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
